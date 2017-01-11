@@ -1,6 +1,6 @@
 # gitbook
 
-[![dockeri.co](http://dockeri.co/image/_/gregoriomelo/docker-gitbook/)](https://registry.hub.docker.com/_/gregoriomelo/docker-gitbook/)
+[![dockeri.co](http://dockeri.co/image/gregoriomelo/docker-gitbook)](https://hub.docker.com/r/gregoriomelo/docker-gitbook/)
 
 Use [gitbook](https://github.com/GitbookIO/gitbook) in a Docker container. Based on [node:alpine](https://hub.docker.com/_/node/)
 
